@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "986146780080",
+    "firebase_url": "https://coffee-efe9c.firebaseio.com",
+    "project_id": "coffee-efe9c",
+    "storage_bucket": "coffee-efe9c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986146780080:android:e0d9631ad6e490c8",
+        "android_client_info": {
+          "package_name": "com.wiredbrain.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986146780080-d7lt6eiojqk7d7joahol6g8fnmmgnikj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUDZzVFWpLRx28AFyJqvO-Sal0vzc0GOA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
